@@ -3,14 +3,13 @@
 
 <img align="right" src="/icons/image.gif"  width="500">
 
-_Hello there, this is **Abhishek Pal**. A **Full Stack Web Developer** with a vision to make this web beautiful. I spend my whole day, experimenting with HTML, CSS, and JavaScript; dabbling with React and Redux. I build websites that delight and inform. I do it well._
+_Hello there, this is **Mayank Giri**. A **Software Engineer** with vision to make a positive impact in this world . I spend my whole day, experimenting with HTML, CSS, and JavaScript; dabbling with React and Redux. I build websites that delight and inform. I do it well._
  </br>
 </br>
-- 🔭 I’m currently working on React.
+- 🔭 I’m currently working on a variety of domains like Power BI, MS Azure Databricks, MS Azure DevOps, SSMS, SSAS, etc.
 - 🌱 Improving my DSA skills.
-- 🤝 Pronouns: Abhi/He/Him
 - 👯 I’m looking to collaborate with other devs on cool projects!
-- 👨‍🎓 Ongoing Intern at Orions IT Solutions.
+- 👨‍🎓 Software Engineer I at MAQ Software currently
 </div>
 <div align="center">
 </br>
